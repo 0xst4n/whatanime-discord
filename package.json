@@ -4,7 +4,7 @@
   "description": "Discord bot to find which anime an image is from",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "eris": "^0.8.7"
   },
   "devDependencies": {},
