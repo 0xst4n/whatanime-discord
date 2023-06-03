@@ -17,5 +17,6 @@ Type "!whatanime" including an image attachment (ctrl+v with an image in your cl
 OR
 
 Add to your server with this link:
-
 [Invite link](https://discord.com/oauth2/authorize?client_id=371938585445662720&scope=bot&permissions=117760)
+
+(currently offline)
